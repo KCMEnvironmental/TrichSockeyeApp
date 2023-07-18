@@ -1,0 +1,14 @@
+name: TrichOtolithApp_V2
+title: TrichOtolithApp_V2
+username:
+account: kcmenvironmental
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9475758
+bundleId: 7472863
+url: https://kcmenvironmental.shinyapps.io/TrichOtolithApp_V2/
+when: 1689722020.4365
+lastSyncTime: 1689722020.43652
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: LICENSE|Protocol 2022-441-001 report - draft #1.xlsx|README.md

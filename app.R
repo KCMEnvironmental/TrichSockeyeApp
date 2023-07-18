@@ -9,7 +9,7 @@
 #   Use 'Explore Data' section to see graphs for sample IDs as selected from dropdown menu 
 #   Hit 'Download All Plots' button to generate and save plots
 #
-#
+#UPDATES: Potentially modify to allow 'default' or 'auto-select' of actual data range for x axis (length). Might add value if user does not want to select range each time. Maybe add selection box; if user selects 'auto' then no numeric input is shown; if user selects 'manually set range' then numeric input is shown. 
 
 # Load Libraries ----
 library(shiny)
